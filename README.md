@@ -40,7 +40,7 @@ Currently, I’m strengthening my skills in **full-stack web development** and r
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnaroztekin&theme=tokyonight" alt="Profil Özeti" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatmaaydogdu-0&theme=tokyonight" alt="Profil Özeti" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pnaroztekin&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatmaaydogdu-0&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </div>
