@@ -39,14 +39,8 @@ Currently, I’m strengthening my skills in **full-stack web development** and r
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaaydogdu-0&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnaroztekin&theme=tokyonight" alt="Profil Özeti" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaaydogdu-0&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaaydogdu-0&theme=dark" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pnaroztekin&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+</div>
